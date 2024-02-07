@@ -1,0 +1,23 @@
+.navDiv {
+  display: flex;
+  border: 2px solid rgb(214, 206, 206);
+  box-shadow: 200px;
+}
+.mainDiv {
+  padding: 10px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.mainImage {
+  border: 1px solid black;
+  border-radius: 20px;
+}
+.restName {
+  display: flex;
+  justify-content: space-between;
+}
+.ratingSpan {
+  color: white;
+  background-color: green;
+}
